@@ -1,5 +1,4 @@
 # Mater
-# Prueba Tecnica
 ## Abraham Hernandez Gonzalez :ab:
 
 ## 1. Algoritmos (Coding).
