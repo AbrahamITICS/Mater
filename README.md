@@ -15,6 +15,6 @@ Problema 2:
 - El método Factory y EL Abstract se relaciona que el Factory es para la creación de simples de un solo objeto y el abstract es para la creación de familias del objeto
 como la creación de una pizza y el otro seria la creación del tipo de pizza y de ahí partiendo más ya sea tipo de masa tipo de cocinado el Factory method para cuando la aplicación comienza y después partiendo de ahí puede ser Abstract
 
- 
- 
-
+Codigo:
+- El numero de Repeticiones de un texto 
+![Palabras](https://user-images.githubusercontent.com/118013279/209067572-ef37335b-a525-4a14-87e5-bc7c0e324cd5.png)
