@@ -1,0 +1,8 @@
+C:\Users\FRANCIS 05\source\repos\Cadena\Cadena\bin\Debug\Cadena.exe.config
+C:\Users\FRANCIS 05\source\repos\Cadena\Cadena\bin\Debug\Cadena.exe
+C:\Users\FRANCIS 05\source\repos\Cadena\Cadena\bin\Debug\Cadena.pdb
+C:\Users\FRANCIS 05\source\repos\Cadena\Cadena\obj\Debug\Cadena.csproj.AssemblyReference.cache
+C:\Users\FRANCIS 05\source\repos\Cadena\Cadena\obj\Debug\Cadena.csproj.SuggestedBindingRedirects.cache
+C:\Users\FRANCIS 05\source\repos\Cadena\Cadena\obj\Debug\Cadena.csproj.CoreCompileInputs.cache
+C:\Users\FRANCIS 05\source\repos\Cadena\Cadena\obj\Debug\Cadena.exe
+C:\Users\FRANCIS 05\source\repos\Cadena\Cadena\obj\Debug\Cadena.pdb
