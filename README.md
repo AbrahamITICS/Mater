@@ -20,8 +20,8 @@ Codigo:
 ![Palabras](https://user-images.githubusercontent.com/118013279/209067572-ef37335b-a525-4a14-87e5-bc7c0e324cd5.png)
 
 ## 3. CRUD de Usuarios
-
 - Creación de API Rest 
+
 ![API Rest](https://user-images.githubusercontent.com/118013279/209067849-3e76df33-0db7-4eb6-83f2-48d02f3b16da.png)
 
 - Consumo de API Rest (GET, POST, PUT, DELETE)
